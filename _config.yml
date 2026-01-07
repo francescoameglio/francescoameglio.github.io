@@ -4,13 +4,13 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'sometimes I keep track of things I find interesting on <a href="https://www.are.na/francesco-ameglio/channels">are.na</a>'
 
 plugins:
   - jekyll-seo-tag
 
 # Theme options
-# style: dark # dark (default) or light or hacker
+style: light # dark (default) or light or hacker
 # listen_for_clients_preferred_style: true # true or false (default)
 
 # Fonts

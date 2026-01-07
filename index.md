@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-# I think I've seen you before
+# There are clouds above our heads
 
 
 Francesco Ameglio is a sound artist based in Torino, Italy. He’s the co-founder of the audio collective Settete and the experimental label SØVN .
