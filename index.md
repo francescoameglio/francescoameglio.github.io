@@ -1,10 +1,11 @@
 ---
 title: Home
 layout: home
-permalink: there are clouds in your eyes
+permalink: /
 ---
 
 # I think I've seen you before
+
 
 Francesco Ameglio is a sound artist based in Torino, Italy. He’s the co-founder of the audio collective Settete and the experimental label SØVN .
 
