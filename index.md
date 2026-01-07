@@ -16,3 +16,6 @@ Of course it is not easy to get out of your own material, and it can be painful;
 (Radu Malfatti)
 
 Thanks for visiting.
+
+
+#==Writings
