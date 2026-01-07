@@ -17,5 +17,19 @@ Of course it is not easy to get out of your own material, and it can be painful;
 
 Thanks for visiting.
 
+<div id="random-sentence"></div>
 
-#==Writings
+<script>
+const sentences = [
+  "this is crazy",
+  "welcome to my website",
+  "hello there!",
+  "thanks for visiting",
+  "have a great day"
+];
+
+const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
+document.getElementById('random-sentence').textContent = randomSentence;
+</script>
+
+# ==Writings==
