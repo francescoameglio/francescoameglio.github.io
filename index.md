@@ -15,7 +15,8 @@ He works in the field of game audio, sound installation, algorithmic composition
 
 (Radu Malfatti)
 
-### Thanks for visiting 
+Thanks for visiting
 
+------------
 
 # Writings
