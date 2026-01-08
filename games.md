@@ -13,6 +13,6 @@ youtubeId: pBSApS3A37U&t=4s
 
 # Stage Fright
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jNQXAC9IVRw" allowfullscreen></iframe>
+
 
 ------------
