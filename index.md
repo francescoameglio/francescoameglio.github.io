@@ -17,7 +17,23 @@ I work in the field of game audio, sound installation, algorithmic composition a
 Thanks for visiting
 
 
-<script src="/assets/random-sentence.js"></script>
+<script type="text/javascript">
+(function() {
+  var sentences = [
+    "this is crazy",
+    "welcome to my website",
+    "hello there!",
+    "thanks for visiting",
+    "have a great day"
+  ];
+
+  var randomIndex = Math.floor(Math.random() * sentences.length);
+  var element = document.getElementById("random-sentence");
+  if (element) {
+    element.innerHTML = sentences[randomIndex];
+  }
+})();
+</script>
 
 ------------
 
