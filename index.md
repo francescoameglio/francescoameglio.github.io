@@ -10,25 +10,13 @@ Sound artist based in Torino, Italy. I’m the co-founder of the audio collectiv
 
 I work in the field of game audio, sound installation, algorithmic composition and interactive media.
 
-<script>
-const sentences = [
-  "this is crazy",
-  "welcome to my website",
-  "hello there!",
-  "thanks for visiting",
-  "have a great day"
-];
-
-const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
-document.getElementById('random-sentence').textContent = randomSentence;
-</script>
-
 >Of course it is not easy to get out of your own material, and it can be painful; there is an insecurity aspect to it. This actually is probably the most experimental level. When do you think real innovation and experimentation are happening? Probably when people are insecure, probably when people are in a situation very new to them and when they are a bit uncertain and afraid. That is where people have to push themselves. People are innovative when they are outside of their warm shit, outside of the familiar and comfortable… I don’t know exactly what I want, but I do know exactly what I do not want.
 
 (Radu Malfatti)
 
 Thanks for visiting
 
+<h2 id="random-sentence"></h2>
 
 ------------
 

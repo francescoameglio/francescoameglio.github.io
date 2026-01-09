@@ -5,7 +5,7 @@ title: Games
 
 # Games I've worked on as a sound designer
 
-With <mark>Settete</mark>
+<mark>Settete</mark>
 
 [Planet of Lana 2](/games/pol2.md)
 [Stage Fright](/games/stagefright.md)
