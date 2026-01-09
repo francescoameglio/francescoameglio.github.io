@@ -5,8 +5,7 @@ permalink: /
 ---
 
 # There are clouds above our heads
-
-
+<br>
 Sound artist based in Torino, Italy. I’m the co-founder of the audio collective Settete and the experimental label SØVN .
 
 I work in the field of game audio, sound installation, algorithmic composition and interactive media.
