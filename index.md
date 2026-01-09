@@ -16,7 +16,8 @@ I work in the field of game audio, sound installation, algorithmic composition a
 
 Thanks for visiting
 
-<h2 id="random-sentence"></h2>
+
+<script src="/assets/random-sentence.js"></script>
 
 ------------
 
