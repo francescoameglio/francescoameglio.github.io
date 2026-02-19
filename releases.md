@@ -5,7 +5,7 @@ title: Releases
 
 # 2025
 
-sunwaemo - wae wae wae [SØVN records]
+[sunwaemo - wae wae wae](https://sovnrecords.bandcamp.com/album/sunwaemo) [SØVN records]
 
 # 2022
 

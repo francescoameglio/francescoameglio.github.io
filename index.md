@@ -16,8 +16,6 @@ I work in the field of game audio, sound installation, algorithmic composition a
 
 Thanks for visiting
 
-Just adding this for testing
-
 ------------
 
 # Writings
