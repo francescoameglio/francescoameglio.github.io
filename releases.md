@@ -13,7 +13,7 @@ Audible haiku for resting - Francesco Ameglio [Esc.Rec records]
 
 # 2020
 
-Something Extremely Light - Guybrush [Esc.Rec records]
+<a href="https://escrec.bandcamp.com/album/something-extremely-light" target="_blank" rel="noopener noreferrer">Something Extremely Light - Guybrush</a> [Esc.Rec records]
 
 
 # 2019
