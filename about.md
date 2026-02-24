@@ -14,4 +14,4 @@ I'm somewhere between these links
 <a href="https://www.instagram.com/nonsonounfotografo/" target="_blank" rel="noopener noreferrer">IG</a>
 <a href="https://x.com/guybrushspace" target="_blank" rel="noopener noreferrer">X</a>
 
-<img src="/images/profile_website_02.jpg" alt="My Photo">
+<img src="/images/profile_website_02.jpg" alt="My Photo" style="width: 380px; height: 500px;">
