@@ -5,11 +5,13 @@ title: Releases
 
 # 2025
 
-[sunwaemo - wae wae wae](https://sovnrecords.bandcamp.com/album/sunwaemo) [SØVN records]
+<a href="https://sovnrecords.bandcamp.com/album/sunwaemo" target="_blank" rel="noopener noreferrer">sunwaemo - wae wae wae</a> [SØVN records]
+
 
 # 2022
 
-Audible haiku for resting - Francesco Ameglio [Esc.Rec records]
+<a href="https://francescoameglio.github.io/haiku/" target="_blank" rel="noopener noreferrer">
+Audible haiku for resting - Francesco Ameglio</a> [Esc.Rec records]
 
 # 2020
 
@@ -18,13 +20,15 @@ Audible haiku for resting - Francesco Ameglio [Esc.Rec records]
 
 # 2019
 
-Sinfonia Meccanica - Francesco Ameglio & Studio 23.56 [SØVN records]
+<a href="https://sovnrecords.bandcamp.com/album/sinfonia-meccanica" target="_blank" rel="noopener noreferrer">
+Sinfonia Meccanica - Francesco Ameglio & Studio 23.56</a> [SØVN records]
 
 
 # 2018
 
-Incandenza - Guybrush [SØVN records]
+<a href="https://sovnrecords.bandcamp.com/album/incandenza" target="_blank" rel="noopener noreferrer">
+Incandenza - Guybrush</a> [SØVN records]
 
 # 2015
 
-That is not what I meant at all - Guybrush [SØVN records]
+<a href="https://sovnrecords.bandcamp.com/album/that-is-not-what-i-meant-at-all" target="_blank" rel="noopener noreferrer"> That is not what I meant at all - Guybrush</a> [SØVN records]
