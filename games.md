@@ -15,9 +15,6 @@ title: Games
 [On Your Tail](/games/nitrogenomega.md)
 [Arcade Sundown](/games/nitrogenomega.md)
 [Epyka](/games/nitrogenomega.md)
-
-<mark>Solo</mark>
-
 [Tails Of Iron](/games/nitrogenomega.md)
 [Unto the End](/games/nitrogenomega.md)
 [Temtem](/games/nitrogenomega.md)
