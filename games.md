@@ -27,12 +27,12 @@ title: Games
 
 <mark>Vibe Avebue</mark>
 
-[Omensight](/games/nitrogenomega.md)
-[Ultimate Chicken Horse](/games/nitrogenomega.md)
-[Oddmar](/games/nitrogenomega.md)
-[The Darwin Project](/games/nitrogenomega.md)
-[Castle Story](/games/nitrogenomega.md)
-[Children of Zordiacs](/games/nitrogenomega.md)
-[Bloodroots](/games/nitrogenomega.md)
-[Operation Tango](/games/nitrogenomega.md)
-[Speed Brawl](/games/nitrogenomega.md)
+<a href="https://store.steampowered.com/app/455820/Omensight_Definitive_Edition/" target="_blank" rel="noopener noreferrer">Omensight</a>
+<a href="https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/" target="_blank" rel="noopener noreferrer">Ultimate Chicken Horse</a>
+<a href="https://apps.apple.com/us/app/oddmar/id1247397901" target="_blank" rel="noopener noreferrer">Oddmar</a>
+<a href="https://store.steampowered.com/app/544920/Darwin_Project/" target="_blank" rel="noopener noreferrer">The Darwin Project</a>
+<a href="https://store.steampowered.com/app/227860/Castle_Story/" target="_blank" rel="noopener noreferrer">Castle Story</a>
+<a href="https://store.steampowered.com/app/436290/Children_of_Zodiarcs/" target="_blank" rel="noopener noreferrer">Children of Zodiarcs</a>
+<a href="https://store.steampowered.com/app/820540/Bloodroots/" target="_blank" rel="noopener noreferrer">Bloodroots</a>
+<a href="https://store.steampowered.com/app/1335790/Operation_Tango/" target="_blank" rel="noopener noreferrer">Operation Tango</a>
+<a href="https://store.steampowered.com/app/468670/Speed_Brawl/" target="_blank" rel="noopener noreferrer">Speed Brawl</a>
