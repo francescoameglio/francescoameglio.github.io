@@ -7,7 +7,7 @@ title: Games
 
 <mark>Settete</mark>
 
-[Planet of Lana 2](/games/pol2.md)
+<a href="https://www.settete.com/works/planet-lana-2" target="_blank" rel="noopener noreferrer">Planet of Lana 2</a> 
 [Stage Fright](/games/stagefright.md)
 [Tails of Iron 2](/games/tailsofiron2.md)
 [Nitro Gen Omega](/games/nitrogenomega.md)
