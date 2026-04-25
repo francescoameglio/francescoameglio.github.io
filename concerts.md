@@ -3,9 +3,6 @@ layout: page
 title: Concerts
 ---
 
-# concerts
-<br>
-
 # 2025
 
 C2C Festival [Turin]- 10 Years of Sleeping Set
