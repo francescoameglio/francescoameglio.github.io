@@ -3,7 +3,7 @@ layout: page
 title: Games
 ---
 
-# Games I've worked on as a sound designer
+# Games I've worked on as a sound designer/composer
 
 <mark>Settete</mark>
 
