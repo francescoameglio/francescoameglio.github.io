@@ -21,7 +21,7 @@ Civic Museum of Printing [Mondovì] - A Voice Is Just a Familiar Noise (Sinfonia
 # 2023
 
 Pas [Berlin] - Guybrush
-C2C Festival [Turni] - SØVN set
+C2C Festival [Turin] - SØVN set
 Pi [Athens] - Guybrush
 
 # 2019
