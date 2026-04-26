@@ -2,6 +2,8 @@
 layout: page
 title: Releases
 ---
+# Releases
+<br>
 
 # 2025
 

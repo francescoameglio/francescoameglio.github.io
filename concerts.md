@@ -2,6 +2,13 @@
 layout: page
 title: Concerts
 ---
+# Concerts
+<br>
+
+# 2026
+
+Inner Space - San Fedele [Milan] - multichannel liveset
+
 
 # 2025
 
@@ -27,8 +34,10 @@ Cripta 747 [Turin] - Sinfonia Meccanica
 
 # 2018
 
+Akousma x INA GRM [Paris] - 70th anniversary of the Musique Concrète - Acousmonium Fixed Media
 Dada [Toulouse] - Guybrush
 Les Vivres de l'Art [Bordeaux] - Guybrush
+Superbudda [Turin] - Guybrush
 
 # 2016
 
