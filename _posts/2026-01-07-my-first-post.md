@@ -1,7 +1,7 @@
 ---
 layout: post
-  title: "Bezier studies"
-date: 2026-01-07
+title: "Bezier studies"
+date: 2026-05-07
 ---
 
 # Bezier studies in Processing
