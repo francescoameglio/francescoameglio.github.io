@@ -1,22 +1,13 @@
 ---
 layout: post
-title: "My First Post"
+  title: "Bezier studies"
 date: 2026-01-07
 ---
 
-# Hello World!
+# Bezier studies in Processing
 
-This is my first blog post. I can write anything here using Markdown.
+<img src="/images/breakable_triptych_01.jpg" alt="bezier01" style="width: 380px; height: 500px;">
 
-## I can add sections
+<img src="/images/breakable_triptych_02.jpg" alt="bezier01" style="width: 380px; height: 500px;">
 
-- Lists
-- **Bold text**
-- *Italic text*
-- [Links](https://www.ilpost.it/)
-
-And code blocks too:
-```
-def hello():
-    print("Hello, world!")
-```
+<img src="/images/breakable_triptych_03.jpg" alt="bezier01" style="width: 380px; height: 500px;">
