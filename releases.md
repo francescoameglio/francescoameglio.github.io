@@ -33,4 +33,6 @@ Incandenza - Guybrush</a> [SØVN records]
 
  # Sound Libraries
 
-<a href="about.md" target="_blank">about</a> 
+<a href="about.md" target="_blank">about</a>
+
+[[about]]
