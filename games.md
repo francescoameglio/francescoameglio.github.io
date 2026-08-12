@@ -7,6 +7,7 @@ title: Games
 
 <mark>Settete</mark>
 
+<a href="https://www.settete.com/works/lofsong" target="_blank" rel="noopener noreferrer">LOFSÖNG</a>
 <a href="https://www.settete.com/works/planet-lana-2" target="_blank" rel="noopener noreferrer">Planet of Lana 2</a>
 <a href="https://www.settete.com/works/stage-fright" target="_blank" rel="noopener noreferrer">Stage Fright</a>
 <a href="https://www.settete.com/works/tails-iron-2" target="_blank" rel="noopener noreferrer">Tails of Iron 2</a>
@@ -25,7 +26,7 @@ title: Games
 <a href="https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/" target="_blank" rel="noopener noreferrer">Need For Speed Heat</a>
 
 
-<mark>Vibe Avebue</mark>
+<mark>Vibe Aven ue</mark>
 
 <a href="https://store.steampowered.com/app/455820/Omensight_Definitive_Edition/" target="_blank" rel="noopener noreferrer">Omensight</a>
 <a href="https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/" target="_blank" rel="noopener noreferrer">Ultimate Chicken Horse</a>
