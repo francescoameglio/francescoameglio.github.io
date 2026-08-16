@@ -17,4 +17,4 @@ A list of things I would like to not have
 - envy
 
 
-[Back to Releases](releases)
+[Back to Releases](\releases)
