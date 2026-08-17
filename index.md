@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-# There are clouds above our heads
+# There are clouds above our heads ☁︎
 <br>
 Sound artist based in Torino, Italy. I’m the co-founder of the audio collective <a href="https://settete.com" target="_blank" rel="noopener noreferrer">Settete</a> and the experimental label <a href="https://sovnrecords.bandcamp.com/" target="_blank" rel="noopener noreferrer">SØVN</a>.
 
