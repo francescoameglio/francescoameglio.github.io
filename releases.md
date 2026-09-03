@@ -6,11 +6,9 @@ title: Releases
 <br>
 
 # 2026
-<br>
 <a href="https://sovnrecords.bandcamp.com/album/sleepers" target="_blank" rel="noopener noreferrer">Sleepers - Andrea Bruera + Elia & Francesco</a> [SØVN records]
 
 # 2025
-<br>
 <a href="https://sovnrecords.bandcamp.com/album/sunwaemo" target="_blank" rel="noopener noreferrer">sunwaemo - wae wae wae</a> [SØVN records]
 
 # 2022
@@ -18,7 +16,6 @@ title: Releases
 Audible haiku for resting - Francesco Ameglio</a> [Esc.Rec records]
 
 # 2020
-<br>
 <a href="https://escrec.bandcamp.com/album/something-extremely-light" target="_blank" rel="noopener noreferrer">Something Extremely Light - Guybrush</a> [Esc.Rec records]
 
 # 2019
@@ -30,12 +27,13 @@ Sinfonia Meccanica - Francesco Ameglio & Studio 23.56</a> [SØVN records]
 Incandenza - Guybrush</a> [SØVN records]
 
 # 2015
-<br>
 <a href="https://sovnrecords.bandcamp.com/album/that-is-not-what-i-meant-at-all" target="_blank" rel="noopener noreferrer">That is not what I meant at all - Guybrush</a> [SØVN records]
 
 <br>
 
 # Sound Libraries
+
+<br>
 
 [UI Goes Modular](UnIndexed_Pages\SoundLib_UIGoesMod)
 

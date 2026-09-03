@@ -26,7 +26,7 @@ title: Games
 <a href="https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/" target="_blank" rel="noopener noreferrer">Need For Speed Heat</a>
 
 
-<mark>Vibe Aven ue</mark>
+<mark>Vibe Avenue</mark>
 
 <a href="https://store.steampowered.com/app/455820/Omensight_Definitive_Edition/" target="_blank" rel="noopener noreferrer">Omensight</a>
 <a href="https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/" target="_blank" rel="noopener noreferrer">Ultimate Chicken Horse</a>
