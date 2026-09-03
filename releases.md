@@ -29,13 +29,9 @@ Incandenza - Guybrush</a> [SØVN records]
 # 2015
 <a href="https://sovnrecords.bandcamp.com/album/that-is-not-what-i-meant-at-all" target="_blank" rel="noopener noreferrer">That is not what I meant at all - Guybrush</a> [SØVN records]
 
-<br>
-<br>
 
+# Sound Libraries
 
- # Sound Libraries
+[UI Goes Modular](UnIndexed_Pages\SoundLib_UIGoesMod)
 
-
-[UI Goes Modular Sound Pack](UnIndexed_Pages\SoundLib_UIGoesMod)
-
-[Obsidian](UnIndexed_Pages\Obsidian_Test_Webpage)
+[Drone Is Your Friend](UnIndexed_Pages\SoundLib_DroneIsYourFriend)
