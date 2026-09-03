@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Installation
+title: Projects
 ---
 
 # A Voice Is Just a Familiar Noise
