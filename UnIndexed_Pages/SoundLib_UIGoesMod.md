@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SoundLib_UIGoesMod
+title: UIGoesMod
 ---
 
 # UI Goes Modular

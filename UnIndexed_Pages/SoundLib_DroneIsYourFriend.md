@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SoundLib_DroneIsYourFriend
+title: DroneIsYourFriend
 ---
 
 # UI Goes Modular
