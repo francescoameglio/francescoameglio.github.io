@@ -3,10 +3,10 @@ layout: page
 title: Projects
 ---
 
-[A Voice is just a familiar Noise](projects\AVoiceIsJustAFamiliarNoise.md)
+[A Voice is just a familiar Noise](projects/AVoiceIsJustAFamiliarNoise.md)
 A/V performance
 
-[Audible Haiku For resting](projects\AudibleHaikuForResting.md)
+[Audible Haiku For resting](projects/AudibleHaikuForResting.md)
 Interactive Web audio
 
 [We went on an island and we found a sacred place](projects\WeWentIsland.md)
