@@ -3,22 +3,23 @@ layout: page
 title: Projects
 ---
 
-# A Voice Is Just a Familiar Noise
+[A Voice is just a familiar Noise](projects\AVoiceIsJustAFamiliarNoise.md)
+A/V performance
 
-Together with <a href="https://archiviotipografico.it/en/" target="_blank" rel="noopener noreferrer">Archivio Tipografico</a> we created an audio visual performance of Sinfonia Meccanica. Presented for the first time at the Museum of Printing in Mondovì on November 2023. A collection of sound sources used for the original project of Sinfonia Meccanica are reconstructed using neural networks and concatenative synthesis. The visual aspects consists of a custom made variable type design controlled in real time by a user and reacting to the sound.
+[Audible Haiku For resting](projects\AudibleHaikuForResting.md)
+Interactive Web audio
 
-<iframe width="560" height="315"  src="https://www.youtube.com/embed/WfjMEBt-HcQ?si=f9J7vXm3wNfoie43" title="YouTube video player" allowfullscreen></iframe>
+[We went on an island and we found a sacred place](projects\WeWentIsland.md)
+Sound installation
 
+[Sinfonia Meccanica](projects\SinfoniaMeccanica.md)
+Sound Installation/Printed book
 
-<img src="/images/AVoice_01.jpg" alt="AVoice_01" width="380px" height="507px">
+[Kokishin](projects\Kokishin.md)
+Youtube channel
 
-<img src="/images/AVoice_02.jpg" alt="AVoice_01" width="380px" height="507px">
+[Fermate Invisibili](projects\FermateInvisibili.md)
+Sound installation
 
-<img src="/images/AVoice_03.jpg" alt="AVoice_01" width="380px" height="507px">
-
-Photos by Gabriele Fumero
-
-
-----------------------------------------------------------------------------------------
-
-# Audible Haiku For resting
+[Study of instability](projects\StudyofInstability.md)
+A/V
