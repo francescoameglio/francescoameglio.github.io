@@ -3,7 +3,7 @@ layout: page
 title: Installation
 ---
 
-# A Voice Is Justa a Familiar SoundLib_DroneIsYourFriend
+# A Voice Is Just a Familiar Noise
 
 Together with <a href="https://archiviotipografico.it/en/" target="_blank" rel="noopener noreferrer">Archivio Tipografico</a> we created an audio visual performance of Sinfonia Meccanica. Presented for the first time at the Museum of Printing in Mondovì on November 2023. A collection of sound sources used for the original project of Sinfonia Meccanica are reconstructed using neural networks and concatenative synthesis. The visual aspects consists of a custom made variable type design controlled in real time by a user and reacting to the sound.
 
@@ -20,3 +20,5 @@ Photos by Gabriele Fumero
 
 
 ----------------------------------------------------------------------------------------
+
+# Audible Haiku For resting
