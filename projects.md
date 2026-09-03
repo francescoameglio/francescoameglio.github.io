@@ -9,7 +9,7 @@ A/V performance
 [Audible Haiku For resting](projects\AudibleHaikuForResting.md)
 Interactive Web audio
 
-[We went on an island and we found a sacred place](UnIndexed_Pages\Obsidian_Test_Webpage.md)
+[We went on an island and we found a sacred place](projects\WeWentIsland.md)
 Sound installation
 
 [Sinfonia Meccanica](projects\SinfoniaMeccanica.md)
