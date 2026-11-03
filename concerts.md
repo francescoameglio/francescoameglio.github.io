@@ -7,6 +7,7 @@ title: Concerts
 
 # 2026
 
+C2C Festival [Turin]
 Inner Space - San Fedele [Milan] - multichannel liveset
 
 
