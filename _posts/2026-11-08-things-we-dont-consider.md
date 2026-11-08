@@ -1,20 +1,15 @@
 ---
 layout: post
-title: "A game about a cloud - part 1"
-date: 2026-11-03
+title: "Things we don't even consider"
+date: 2026-11-08
 ---
 
-# A game about a cloud and the meaning of death
+# Things we don't even consider
 
-First step: a cloud that moves around and interacts with things in the world.
-Basic game design.
-Efficiency over emotions.
-Is this a game?
-Clouds will talk.
-
-<img src="/images/acloudgif.gif" alt="acloud" width="573px" height="321px">
-
-Always moving.
-Things I don't like:
-- the color of the sky.
-- cloud too static.
+Trees are meant to be left alone
+Flowers don't need our company
+Lakes don't talk, they prefer to remain silent
+Birds sing poems for themselves
+Mountains hate hermits
+Sea is bored to death
+Why are we making so much noise?
