@@ -5,7 +5,7 @@ date: 2026-11-03
 ---
 
 # A game about a cloud and the meaning of death
-
+<br>
 First step: a cloud that moves around and interacts with things in the world.
 Basic game design.
 Efficiency over emotions.

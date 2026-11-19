@@ -5,7 +5,7 @@ date: 2026-11-09
 ---
 
 # Silent Escapism
-
+<br>
 Let's get out of here
 Smash the door
 Unforgiving moments will never be cured

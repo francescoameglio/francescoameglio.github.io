@@ -5,7 +5,7 @@ date: 2026-11-08
 ---
 
 # Things we don't even consider
-
+<br>
 Trees are meant to be left alone
 Flowers don't need our company
 Lakes don't talk, they prefer to remain silent
