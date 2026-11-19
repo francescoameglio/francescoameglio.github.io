@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Staring at the screen"
+title: "Throwing cocktails at the führer"
 date: 2026-11-19
 ---
 
